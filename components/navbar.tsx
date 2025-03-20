@@ -75,7 +75,7 @@ export default function Navbar() {
               FAQ
             </Link>
             <Button asChild className="bg-theme-navy hover:bg-theme-blue text-white ml-2">
-              <a href="https://forms.google.com/register" target="_blank" rel="noopener noreferrer">
+              <a href="https://forms.gle/1xdE3UtZZiPV3TBJA" target="_blank" rel="noopener noreferrer">
                 Register Now
               </a>
             </Button>

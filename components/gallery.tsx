@@ -5,14 +5,14 @@ import { ChevronLeft, ChevronRight } from "lucide-react"
 
 export default function Gallery() {
   const images = [
-    { src: "/placeholder.svg?height=600&width=800", alt: "MUN Conference" },
-    { src: "/placeholder.svg?height=500&width=900", alt: "Delegates in Session" },
-    { src: "/placeholder.svg?height=700&width=700", alt: "Committee Meeting" },
-    { src: "/placeholder.svg?height=800&width=600", alt: "Opening Ceremony" },
-    { src: "/placeholder.svg?height=600&width=900", alt: "Panel Discussion" },
-    { src: "/placeholder.svg?height=900&width=600", alt: "Award Ceremony" },
-    { src: "/placeholder.svg?height=700&width=800", alt: "Networking Event" },
-    { src: "/placeholder.svg?height=800&width=800", alt: "Cultural Performance" },
+    { src: "/images/g1.png", alt: "MUN Conference" },
+    { src: "/images/g2.png", alt: "Delegates in Session" },
+    { src: "/images/g3.png", alt: "Committee Meeting" },
+    { src: "/images/g4.png", alt: "Opening Ceremony" },
+    { src: "/images/g5.png", alt: "Panel Discussion" },
+    { src: "/images/g6.png", alt: "Award Ceremony" },
+    { src: "/images/g7.png", alt: "Networking Event" },
+    { src: "/images/g8.png", alt: "Cultural Performance" },
   ]
 
   const [currentIndex, setCurrentIndex] = useState(0)

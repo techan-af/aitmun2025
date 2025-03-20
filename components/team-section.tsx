@@ -3,7 +3,7 @@ import { Instagram, Linkedin } from "lucide-react"
 export default function TeamSection() {
   const teamMembers = [
     {
-      name: "Arjun Mehta",
+      name: "Chetan Singh",
       role: "Secretary General",
       image: "/placeholder.svg?height=300&width=300",
       social: {
@@ -12,16 +12,7 @@ export default function TeamSection() {
       },
     },
     {
-      name: "Priya Singh",
-      role: "Deputy Secretary General",
-      image: "/placeholder.svg?height=300&width=300",
-      social: {
-        linkedin: "https://linkedin.com/",
-        instagram: "https://instagram.com/",
-      },
-    },
-    {
-      name: "Vikram Choudhary",
+      name: "Rajat Singh",
       role: "Director General",
       image: "/placeholder.svg?height=300&width=300",
       social: {
@@ -30,8 +21,8 @@ export default function TeamSection() {
       },
     },
     {
-      name: "Ananya Desai",
-      role: "Chief of Staff",
+      name: "Yash Pathak",
+      role: "DG Delegate Affairs",
       image: "/placeholder.svg?height=300&width=300",
       social: {
         linkedin: "https://linkedin.com/",
@@ -39,8 +30,8 @@ export default function TeamSection() {
       },
     },
     {
-      name: "Rohan Kapoor",
-      role: "USG - Delegate Affairs",
+      name: "Rachit",
+      role: "DG Sponsorship",
       image: "/placeholder.svg?height=300&width=300",
       social: {
         linkedin: "https://linkedin.com/",
@@ -48,8 +39,17 @@ export default function TeamSection() {
       },
     },
     {
-      name: "Neha Sharma",
-      role: "USG - Logistics",
+      name: "Sohila Kaur",
+      role: "USG Delegate Affairs",
+      image: "/placeholder.svg?height=300&width=300",
+      social: {
+        linkedin: "https://www.linkedin.com/in/sohila-kaur?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        instagram: "https://www.instagram.com/sohila_kaur?igsh=bXhiNGJ5NjV6bTZ1",
+      },
+    },
+    {
+      name: "Sonali",
+      role: "USG Delegate Affairs",
       image: "/placeholder.svg?height=300&width=300",
       social: {
         linkedin: "https://linkedin.com/",
@@ -57,8 +57,8 @@ export default function TeamSection() {
       },
     },
     {
-      name: "Aditya Patel",
-      role: "USG - Marketing",
+      name: "Shubham Dhami",
+      role: "USG Finance",
       image: "/placeholder.svg?height=300&width=300",
       social: {
         linkedin: "https://linkedin.com/",
@@ -66,14 +66,52 @@ export default function TeamSection() {
       },
     },
     {
-      name: "Zara Khan",
-      role: "USG - Public Relations",
+      name: "Aashu Yadav",
+      role: "USG Sponsorship",
       image: "/placeholder.svg?height=300&width=300",
       social: {
         linkedin: "https://linkedin.com/",
         instagram: "https://instagram.com/",
       },
     },
+    {
+      name: "Srijan",
+      role: "USG Coverage",
+      image: "/placeholder.svg?height=300&width=300",
+      social: {
+        linkedin: "https://linkedin.com/",
+        instagram: "https://instagram.com/",
+      },
+    },
+    {
+      name: "Mohitesh Thakur",
+      role: "USG Logistics",
+      image: "/placeholder.svg?height=300&width=300",
+      social: {
+        linkedin: "https://linkedin.com/",
+        instagram: "https://instagram.com/",
+      },
+    },
+    {
+      name: "Ujjwal Gupta",
+      role: "USG Marketing",
+      image: "/placeholder.svg?height=300&width=300",
+      social: {
+        linkedin: "https://linkedin.com/",
+        instagram: "https://instagram.com/",
+      },
+    },
+    {
+      name: "Siddhant Tiwari",
+      role: "USG Design and Tech",
+      image: "/placeholder.svg?height=300&width=300",
+      social: {
+        linkedin: "https://www.linkedin.com/in/siddhant-tiwari-89522b277",
+        instagram: "https://www.instagram.com/_sidtiwari_/",
+      },
+    },
+    
+    
   ]
 
   return (

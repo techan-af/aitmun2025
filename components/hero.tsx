@@ -24,11 +24,11 @@ export default function Hero() {
         </p>
         <div className="flex flex-col sm:flex-row justify-center gap-4">
           <Button asChild size="lg" className="bg-theme-navy hover:bg-theme-blue text-white">
-            <a href="https://forms.google.com/register" target="_blank" rel="noopener noreferrer">
+            <a href="https://forms.gle/1xdE3UtZZiPV3TBJA" target="_blank" rel="noopener noreferrer">
               Register Now
             </a>
           </Button>
-          <Button asChild variant="outline" size="lg" className="border-white text-white hover:bg-white/10">
+          <Button asChild variant="outline" size="lg" className="border-white text-black hover:bg-white/10 hover:text-white">
             <Link href="/#about">Learn More</Link>
           </Button>
         </div>

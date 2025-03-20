@@ -19,11 +19,6 @@ export default function Faq() {
         "Eager to join the ranks of future world leaders? Navigate to our website, click the 'Register Now' button, and follow the prompts. It's simpler than passing a unanimous resolution in the General Assembly.",
     },
     {
-      question: "Is there a registration fee?",
-      answer:
-        "Ah, the budgetary inquiry! Yes, there is a registration fee, but consider it a strategic investment in your burgeoning political career—or at the very least, excellent fodder for your future memoirs.",
-    },
-    {
       question: "What should I prepare before the conference?",
       answer:
         "Besides your best power suit? Delve into the intricacies of your assigned country, master your committee's agenda, and hone your oratory skills. Remember, in the world of diplomacy, a well-placed quote can be as disarming as a well-aimed...sanction.",

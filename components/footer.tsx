@@ -23,8 +23,8 @@ export default function Footer() {
             </div>
             <p className="text-gray-300 mb-4">
               For Any Queries Contact:<br/>
-              Chetan Singh: +91 960286673<br/>
-              Rajat Singh: +91 7985001490<br/>
+              Sohila Kaur: +91 9999078811<br/>
+              Siddhant Tiwari: +91 9863613065<br/>
             </p>
             <div className="flex space-x-4">
               

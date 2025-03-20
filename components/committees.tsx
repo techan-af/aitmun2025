@@ -6,40 +6,41 @@ export default function Committees() {
       id: "unsc",
       name: "United Nations Security Council",
       description:
-        "Addressing security threats during and after World War II, focusing on international peace and security.",
+        `Addressing nuclear proliferation in the Middle East, focusing on Iran’s nuclear program and regional security dynamics.
+`,
       image: "./images/unsc.png",
     },
     {
       id: "unhrc",
       name: "United Nations Human Rights Council",
       description:
-        "Examining human rights violations during World War II and their implications for modern human rights frameworks.",
+        "Human rights situation in Israeli settlements in Occupied Palestinian Territory, including East Jerusalem, and in the occupied Syrian Golan.",
       image: "./images/unhrc.png",
     },
     {
       id: "unodc",
       name: "United Nations Office on Drugs and Crime",
       description:
-        "Investigating war crimes, genocide, and the development of international criminal law following World War II.",
+        "Tackling the proliferation of synthetic opioid trafficking, with an emphasis on fentanyl production in Mexico.",
       image: "./images/unodc.png",
     },
     {
       id: "aippm",
       name: "All India Political Parties Meet",
-      description: "Discussing India's role during World War II and its path to independence in the post-war era.",
+      description: "Censorship laws in India, with a special focus on digital content regulation under the IT Act, 2000, and Article 19 of the Constitution.iscussing India's role during World War II and its path to independence in the post-war era.",
       image: "./images/aippm.png",
     },
     {
       id: "ip",
       name: "International Press",
-      description: "Covering the committees and events, analyzing propaganda and media's role during World War II.",
+      description: "Be on the frontlines of journalism as history takes shape",
       image: "./images/ip.png",
     },
     {
       id: "uncsw",
       name: "UN Commission on Status of Women",
       description:
-        "Exploring women's changing roles during and after World War II and their impact on gender equality movements.",
+        `Advancing Global Gender Equality: Addressing State Regulation of Women’s Attire and Mitigating the Escalation of Intimate Partner Violence in the world.`,
       image: "./images/uncsw.png",
     },
   ]
@@ -51,8 +52,8 @@ export default function Committees() {
           <h2 className="text-3xl md:text-4xl font-bold mb-6 text-theme-navy">Our Committees</h2>
           <div className="w-20 h-1 bg-theme-blue mx-auto mb-8"></div>
           <p className="text-lg text-gray-700">
-            Explore our six specialized committees, each focusing on different aspects of World War II and its lasting
-            impact on global governance and international relations.
+          Delve into our six specialized committees, each meticulously designed to dissect pivotal facets of World War II and their enduring influence on contemporary global governance and international relations.
+
           </p>
         </div>
 

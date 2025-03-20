@@ -6,42 +6,37 @@ export default function Faq() {
     {
       question: "What is Model United Nations?",
       answer:
-        "Model United Nations (MUN) is an educational simulation where students roleplay as delegates representing different countries in United Nations committees. Participants research, debate, and develop solutions to global challenges while following diplomatic protocols.",
+        "Ever dreamt of wielding diplomatic immunity without the pesky paparazzi? Model United Nations (MUN) is your golden ticket! Step into the polished shoes of UN delegates, debate pressing global issues, draft resolutions, and experience the thrill of international politics—all without the need for a security detail.",
     },
     {
       question: "Who can participate in AIT MUN?",
       answer:
-        "AIT MUN is open to college and university students from all academic backgrounds. We welcome both experienced MUN participants and newcomers who are interested in international relations, diplomacy, and public speaking.",
-    },
-    {
-      question: "What is the theme for this year's AIT MUN?",
-      answer:
-        "This year's theme is centered around World War II, exploring its historical context and drawing parallels to contemporary global challenges. Each committee will address specific aspects related to this pivotal period in world history.",
+        "Are you a high school or college student with aspirations of global domination—er, we mean, diplomacy? Whether you're a novice negotiator or a seasoned statesperson, AIT MUN welcomes all who are ready to engage in the art of political persuasion.",
     },
     {
       question: "How do I register for AIT MUN?",
       answer:
-        "Registration is available through our online form accessible via the 'Register Now' button on our website. You'll need to provide your personal information, academic details, and committee preferences.",
+        "Eager to join the ranks of future world leaders? Navigate to our website, click the 'Register Now' button, and follow the prompts. It's simpler than passing a unanimous resolution in the General Assembly.",
     },
     {
       question: "Is there a registration fee?",
       answer:
-        "Yes, there is a registration fee that covers conference materials, meals during the event, certificates, and potential awards. Fee details are available on the registration page, with early bird discounts for those who register before the deadline.",
+        "Ah, the budgetary inquiry! Yes, there is a registration fee, but consider it a strategic investment in your burgeoning political career—or at the very least, excellent fodder for your future memoirs.",
     },
     {
       question: "What should I prepare before the conference?",
       answer:
-        "Delegates should research their assigned country's position on the committee topics, prepare a position paper, and familiarize themselves with MUN rules of procedure. Background guides and research resources will be provided after registration.",
+        "Besides your best power suit? Delve into the intricacies of your assigned country, master your committee's agenda, and hone your oratory skills. Remember, in the world of diplomacy, a well-placed quote can be as disarming as a well-aimed...sanction.",
     },
     {
       question: "Will accommodation be provided?",
       answer:
-        "We offer accommodation options for outstation delegates at additional cost. Details about accommodation arrangements and fees are available during the registration process.",
+        "Concerned about your diplomatic quarters? Fear not! We offer accommodation options for our esteemed out-of-town delegates. Details are available on our logistics page. Rest assured, your stay will be more comfortable than a late-night parliamentary session.",
     },
     {
       question: "How can my organization sponsor AIT MUN?",
       answer:
-        "We offer various sponsorship tiers (Gold, Silver, and others) with different benefits and visibility options. Please contact our sponsorship team at sponsors@aitmun.org for detailed information about partnership opportunities.",
+        "Looking to align your brand with the next generation of global influencers? Reach out to us at aitpunemun@gmail.com, and let's negotiate a partnership that's as mutually beneficial as a well-crafted trade agreement.",
     },
   ]
 
@@ -69,7 +64,7 @@ export default function Faq() {
           <div className="mt-12 text-center">
             <p className="text-gray-700 mb-4">Still have questions? Feel free to reach out to us.</p>
             <a href="mailto:info@aitmun.org" className="text-theme-navy hover:text-theme-blue font-medium">
-              info@aitmun.org
+            aitpunemun@gmail.com
             </a>
           </div>
         </div>

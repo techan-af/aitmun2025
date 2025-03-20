@@ -10,25 +10,25 @@ export default function Sponsors() {
         { name: "Future Foundation", logo: "./images/max.png" },
       ],
     },
-    {
-      tier: "Silver Sponsors",
-      sponsors: [
-        { name: "Horizon Media", logo: "./images/budhani.png" },
-        { name: "Summit Solutions", logo: "./images/accops.png" },
-        { name: "Nexus Group", logo: "./images/max.png" },
-        { name: "Pinnacle Partners", logo: "./images/max.png" },
-      ],
-    },
-    {
-      tier: "Other Sponsors",
-      sponsors: [
-        { name: "Vertex Ventures", logo: "./images/budhani.png" },
-        { name: "Pulse Publications", logo: "./images/accops.png" },
-        { name: "Elevate Education", logo: "./images/accops.png" },
-        { name: "Quantum Quill", logo: "./images/budhani.png" },
-        { name: "Zenith Zone", logo: "./images/max.png" },
-      ],
-    },
+    // {
+    //   tier: "Silver Sponsors",
+    //   sponsors: [
+    //     { name: "Horizon Media", logo: "./images/budhani.png" },
+    //     { name: "Summit Solutions", logo: "./images/accops.png" },
+    //     { name: "Nexus Group", logo: "./images/max.png" },
+    //     { name: "Pinnacle Partners", logo: "./images/max.png" },
+    //   ],
+    // },
+    // {
+    //   tier: "Other Sponsors",
+    //   sponsors: [
+    //     { name: "Vertex Ventures", logo: "./images/budhani.png" },
+    //     { name: "Pulse Publications", logo: "./images/accops.png" },
+    //     { name: "Elevate Education", logo: "./images/accops.png" },
+    //     { name: "Quantum Quill", logo: "./images/budhani.png" },
+    //     { name: "Zenith Zone", logo: "./images/max.png" },
+    //   ],
+    // },
   ]
 
   return (

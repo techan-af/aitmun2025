@@ -8,36 +8,12 @@ export default function Testimonials() {
   const testimonials = [
     {
       id: 1,
-      name: "Aisha Patel",
-      role: "Delegate, UNSC",
-      image: "/images/testimonial.png",
+      name: "Raveen Janu",
+      role: "Goodwill Sponsor AIT MUN 2025",
+      image: "/images/janu.jpg",
       quote:
-        "AIT MUN was a transformative experience that enhanced my understanding of international relations and diplomacy. The World War II theme provided a unique historical lens to examine contemporary global issues.",
-    },
-    {
-      id: 2,
-      name: "Rahul Sharma",
-      role: "Chair, UNHRC",
-      image: "/images/testimonial.png",
-      quote:
-        "Serving as a chair at AIT MUN was incredibly rewarding. The delegates showed exceptional preparation and engagement with complex historical and contemporary human rights issues.",
-    },
-    {
-      id: 3,
-      name: "Astha Singh",
-      role: "Delegate, AIPPM",
-      image: "/images/testimonial.png",
-      quote:
-        "The attention to historical detail and the quality of debate at AIT MUN was outstanding. I gained valuable insights into India's political landscape during a pivotal period in world history.",
-    },
-    {
-      id: 4,
-      name: "Javed Khan",
-      role: "Faculty Advisor",
-      image: "/images/testimonial.png",
-      quote:
-        "AIT MUN stands out for its meticulous organization and educational value. The World War II theme created meaningful connections between historical events and current international challenges.",
-    },
+        "Raveen Janu Sir, an alumnus of 2006 batch made a generous contribution of INR 35K towards organization of AIT MUN 2025",
+    }
   ]
 
   const [activeIndex, setActiveIndex] = useState(0)
@@ -54,9 +30,9 @@ export default function Testimonials() {
     <section className="py-20 bg-white">
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold mb-6 text-theme-navy">Testimonials</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-6 text-theme-navy">Some Generous Contributions</h2>
           <div className="w-20 h-1 bg-theme-blue mx-auto mb-8"></div>
-          <p className="text-lg text-gray-700">Hear from past participants about their AIT MUN experience.</p>
+          <p className="text-lg text-gray-700"></p>
         </div>
 
         <div className="max-w-4xl mx-auto">

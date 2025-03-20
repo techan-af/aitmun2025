@@ -9,37 +9,37 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="md:col-span-1">
             <div className="flex items-center gap-3 mb-4">
-              <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center overflow-hidden">
+              {/* <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center overflow-hidden"> */}
                 {/* Logo placeholder - replace with actual logo */}
-                <div className="w-8 h-8 relative">
+                {/* <div className="w-8 h-8 relative"> */}
                   <Image
-                    src="/placeholder.svg?height=32&width=32"
+                    src="/images/logo.svg"
                     alt="AIT MUN Logo"
-                    width={32}
-                    height={32}
+                    width={48}
+                    height={48}
                     className="object-contain"
                   />
-                </div>
-              </div>
+                {/* </div> */}
+              {/* </div> */}
               <h3 className="text-xl font-bold">AIT MUN</h3>
             </div>
             <p className="text-gray-300 mb-4">
               Model United Nations Conference with a focus on World War II and its impact on global governance.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-300 hover:text-white transition-colors">
+              {/* <a href="#" className="text-gray-300 hover:text-white transition-colors">
                 <Facebook size={20} />
                 <span className="sr-only">Facebook</span>
-              </a>
-              <a href="#" className="text-gray-300 hover:text-white transition-colors">
+              </a> */}
+              <a href="https://www.instagram.com/ait_mun?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white transition-colors">
                 <Instagram size={20} />
                 <span className="sr-only">Instagram</span>
               </a>
-              <a href="#" className="text-gray-300 hover:text-white transition-colors">
+              {/* <a href="#" className="text-gray-300 hover:text-white transition-colors">
                 <Twitter size={20} />
                 <span className="sr-only">Twitter</span>
-              </a>
-              <a href="#" className="text-gray-300 hover:text-white transition-colors">
+              </a> */}
+              <a href="https://www.linkedin.com/company/ddq-club-ait/posts/?feedView=all" className="text-gray-300 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">
                 <Linkedin size={20} />
                 <span className="sr-only">LinkedIn</span>
               </a>

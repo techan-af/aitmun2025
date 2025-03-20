@@ -10,7 +10,7 @@ export default function Testimonials() {
       id: 1,
       name: "Aisha Patel",
       role: "Delegate, UNSC",
-      image: "/placeholder.svg?height=200&width=200",
+      image: "/images/testimonial.png",
       quote:
         "AIT MUN was a transformative experience that enhanced my understanding of international relations and diplomacy. The World War II theme provided a unique historical lens to examine contemporary global issues.",
     },
@@ -18,23 +18,23 @@ export default function Testimonials() {
       id: 2,
       name: "Rahul Sharma",
       role: "Chair, UNHRC",
-      image: "/placeholder.svg?height=200&width=200",
+      image: "/images/testimonial.png",
       quote:
         "Serving as a chair at AIT MUN was incredibly rewarding. The delegates showed exceptional preparation and engagement with complex historical and contemporary human rights issues.",
     },
     {
       id: 3,
-      name: "Sophia Chen",
+      name: "Astha Singh",
       role: "Delegate, AIPPM",
-      image: "/placeholder.svg?height=200&width=200",
+      image: "/images/testimonial.png",
       quote:
         "The attention to historical detail and the quality of debate at AIT MUN was outstanding. I gained valuable insights into India's political landscape during a pivotal period in world history.",
     },
     {
       id: 4,
-      name: "James Wilson",
+      name: "Javed Khan",
       role: "Faculty Advisor",
-      image: "/placeholder.svg?height=200&width=200",
+      image: "/images/testimonial.png",
       quote:
         "AIT MUN stands out for its meticulous organization and educational value. The World War II theme created meaningful connections between historical events and current international challenges.",
     },
